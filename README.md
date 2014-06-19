@@ -1,4 +1,6 @@
 # Messages Utilities
+
+[![release](http://img.shields.io/github/release/jkuczm/MathematicaMessagesUtilities.svg)](https://github.com/jkuczm/MathematicaMessagesUtilities/releases/latest)
 [![Semantic Versioning](http://img.shields.io/badge/SemVer-2.0.0-brightgreen.svg)](http://semver.org/spec/v2.0.0.html)
 [![license MIT](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jkuczm/MathematicaMessagesUtilities/blob/master/LICENSE)
 
