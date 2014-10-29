@@ -1,8 +1,9 @@
 # Messages Utilities
 
-[![release](http://img.shields.io/github/release/jkuczm/MathematicaMessagesUtilities.svg)](https://github.com/jkuczm/MathematicaMessagesUtilities/releases/latest)
-[![Semantic Versioning](http://img.shields.io/badge/SemVer-2.0.0-brightgreen.svg)](http://semver.org/spec/v2.0.0.html)
-[![license MIT](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jkuczm/MathematicaMessagesUtilities/blob/master/LICENSE)
+[![release v0.1.0](http://img.shields.io/badge/release-v0.1.0-orange.svg)](https://github.com/jkuczm/MathematicaMessagesUtilities/releases/latest)
+[![Semantic Versioning](http://jkuczm.github.io/media/images/SemVer-2.0.0-brightgreen.svg)](http://semver.org/spec/v2.0.0.html)
+[![license MIT](http://jkuczm.github.io/media/images/license-MIT-blue.svg)](https://github.com/jkuczm/MathematicaMessagesUtilities/blob/master/LICENSE)
+[![Mathematica 8.0 9.0 10.0](http://jkuczm.github.io/media/images/Mathematica-8.0_9.0_10.0-brightgreen.svg)](#compatibility)
 
 
 Set of tools for managing messages in Mathematica.
@@ -62,8 +63,8 @@ Get["https://raw.githubusercontent.com/jkuczm/MathematicaMessagesUtilities/maste
 ## Compatibility
 
 This package contains automatic test suite. Package is being tested with
-Mathematica versions 8.0 and 9.0 on Linux. Since it doesn't contain any OS
-specific code it should work with above versions on all operating systems.
+Mathematica versions 8.0, 9.0 and 10.0 on Linux. Since it doesn't contain any
+OS specific code it should work with above versions on all operating systems.
 
 
 
